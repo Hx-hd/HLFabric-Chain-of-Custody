@@ -1,0 +1,6 @@
+*.log
+wallet/
+organizations/
+*.crt
+*.key
+.env
