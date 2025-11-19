@@ -4,3 +4,5 @@ organizations/
 *.crt
 *.key
 .env
+**/fabric-samples/
+**/node-modules/
